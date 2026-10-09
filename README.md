@@ -3,7 +3,7 @@
 
 ---
 # MKGames - PyGame Project
-# Проект сделали ученики Академии Яндекса школы 179 [Новиков Кирилл](https://github.com/knQzx) и [Садиков Магомед](https://github.com/Magprone)
+# Проект сделали ученики Академии Яндекса школы 179 [Новиков Кирилл](https://github.com/knQzx) и [Садиков Максим](https://github.com/Magprone)
 ### For [Yandex Lyceum](https://yandexlyceum.ru)
 
 ---
